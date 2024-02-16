@@ -9,4 +9,4 @@ class Queue():
         self.cards.pop(0)
 
 if __name__ == '__main__':
-    queue = Queue(input())
+    dmv = Queue()
